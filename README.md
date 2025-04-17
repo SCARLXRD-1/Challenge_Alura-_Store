@@ -16,16 +16,10 @@ alura-store-/
 Clona este repositorio:
 
 git clone https://github.com/SCARLXRD-1/Challenge_Alura-_Store
-Entra en el proyecto:
 
 
-cd alura-store-analysis
-Crea un entorno virtual e instala las dependencias:
 
 
-python -m venv venv
-source venv/bin/activate  # En Windows: venv\Scripts\activate
-pip install -r requirements.txt
 📈 Análisis Realizados
 ✔️ Facturación Total por Tienda
 Se evaluó el ingreso bruto de cada tienda para conocer su rendimiento general.
